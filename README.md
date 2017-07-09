@@ -1,4 +1,4 @@
-## This is an ARkit Trial on Unity
+## This is an ARkit spike on Unity
 
 Spike Plane
 
